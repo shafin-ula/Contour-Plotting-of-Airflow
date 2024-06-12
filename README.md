@@ -9,4 +9,4 @@ Simulation of a Car in a stationary wind tunnel with optimal conditions. There i
 
 ## Results
 
-Plots with horzontal air velocity and Streamlines plot has been added to the Results Folder
+Plots with horzontal air velocity and Streamlines plot has been added to the Result Plots Folder
